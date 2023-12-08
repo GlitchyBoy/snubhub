@@ -11,7 +11,7 @@ function login () {
   let email = "Felix1";
 
   if (emailfill === email & password === passwordfill) {
-    window.open('snub.html')
+    window.open('index.html')
     window.close('login.html') 
   } else {
     alert("no!")
