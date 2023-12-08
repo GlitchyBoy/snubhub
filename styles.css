@@ -239,4 +239,10 @@ html {
 
 }.login-button:active {
   opacity: 60%;
+
+}
+
+.header-about-picture {
+  width: 250px;
+
 }
