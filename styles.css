@@ -245,4 +245,31 @@ html {
 .header-about-picture {
   width: 250px;
 
+}.about-grid {
+  display: grid;
+  grid-template-columns: 42% 43%;
+  column-gap: 10%;
+  row-gap: 10%;
+  padding-top: 5%;
+  padding-left: 3.5%;
+  
+
+}.about-grid-1 {
+  background-color: white;
+  border-radius: 4px;
+  color: black;
+
+}.about-title {
+  font-family: Roboto, arial;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5vw;
+  padding-top: 8px;
+
+}.about-text {
+  font-family: Roboto, arial;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  font-size: 1.3vw;
 }
