@@ -258,6 +258,8 @@ html {
   background-color: white;
   border-radius: 4px;
   color: black;
+  height: 60vh;
+  margin-bottom: 30px;
 
 }.about-title {
   font-family: Roboto, arial;
