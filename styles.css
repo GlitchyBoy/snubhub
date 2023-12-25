@@ -274,4 +274,38 @@ html {
   padding-right: 10px;
   padding-top: 10px;
   font-size: 1.3vw;
+
+}.register-page {
+  background-color: rgb(104, 101, 101);
+  padding-bottom: 60%;
+  margin: auto;
+  width: 50%;
+
+}.register-text {
+  color: white;
+  font-size: 150%;
+  font-weight: bold;
+  padding-top: 20px;
+  padding-left: 10%;
+
+}.inputer-register {
+  display: inline-block;
+  padding-left: 10%;
+  padding-top: 10%;
+
+}.input-select {
+  padding-top: 50px;
+  margin-left: 45%;
+
+}.input-radio {
+  padding-top: 50px;
+  margin-left: 33%;
+
+}.input-term {
+  padding-top: 50px;
+  margin-left: 25%;
+
+}.input-button {
+  padding-top: 50px;
+  margin-left: 45%;
 }

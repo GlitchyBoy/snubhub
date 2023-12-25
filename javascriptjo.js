@@ -14,7 +14,8 @@ function login () {
     window.open('index.html')
     window.close('login.html') 
   } else {
-    alert("no!")
+    alert("Je stinkt")
   }
+  
 
 }
